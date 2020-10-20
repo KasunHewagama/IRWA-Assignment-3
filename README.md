@@ -1,11 +1,17 @@
 # IRWA-Assignment-3
 
 •	Sentiment Analysis using Twitter data
+
 •	Classification of news articles
+
 •	Classification of Movie Data using the IMDB reviews
+
 •	Spam Identification
+
 •	Insight Analysis
+
 •	Restaurant/Hotel classification based on customer reviews
+
 •	Identification of fake news, hate speech, etc.
 
 # The following activities were done in the answer sheet
